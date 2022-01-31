@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todhritesh/react-whatsapp-ui-test/static/css/main.8b8ca2f8.css",
+    "main.js": "/todhritesh/react-whatsapp-ui-test/static/js/main.8ee8227a.js",
+    "static/js/787.dfb26b50.chunk.js": "/todhritesh/react-whatsapp-ui-test/static/js/787.dfb26b50.chunk.js",
+    "index.html": "/todhritesh/react-whatsapp-ui-test/index.html",
+    "main.8b8ca2f8.css.map": "/todhritesh/react-whatsapp-ui-test/static/css/main.8b8ca2f8.css.map",
+    "main.8ee8227a.js.map": "/todhritesh/react-whatsapp-ui-test/static/js/main.8ee8227a.js.map",
+    "787.dfb26b50.chunk.js.map": "/todhritesh/react-whatsapp-ui-test/static/js/787.dfb26b50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b8ca2f8.css",
+    "static/js/main.8ee8227a.js"
+  ]
+}
